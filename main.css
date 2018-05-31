@@ -13,7 +13,7 @@ header {
 
 
 /* Create Navigation Bar */
-nav{
+.navtop{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -23,9 +23,6 @@ nav{
 
 .navigation{
     float: left;
-}
-
-.navigation{
     display: block;
     color: white;
     text-align: center;
