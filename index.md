@@ -5,7 +5,7 @@
 <head>
 	
 <header>
-	<h1>Odesa Thompson</h1>
+	<h1>Odessa Thompson</h1>
 </header>
 
 <nav>
@@ -16,7 +16,7 @@
 </nav>
 
 <body>
-    <p class="textmain" >for_odessa</p>
+    <p class="textmain">for_odessa</p>
 </body>
 
 
