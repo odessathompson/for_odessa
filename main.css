@@ -2,7 +2,11 @@
   color: red;
 }
 
-body {
+body{
     margin: 0;
     text-align: left;
+}
+
+nav{
+    text align: center;
 }
