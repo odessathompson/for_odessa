@@ -1,3 +1,8 @@
 .textmain{
   color: red;
 }
+
+body {
+    margin: 0;
+    text-align: center;
+}
