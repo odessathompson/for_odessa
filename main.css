@@ -8,5 +8,6 @@ body{
 }
 
 nav{
-    text align: center;
+    margin: 0;
+    padding: 0;
 }
