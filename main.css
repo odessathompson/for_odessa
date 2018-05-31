@@ -21,7 +21,7 @@ li{
     float: left;
 }
 
-li a{
+.navigation{
     display: block;
     color: white;
     text-align: center;
@@ -30,7 +30,7 @@ li a{
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover{
+.navigation:hover{
     background-color: #111;
 }
 
