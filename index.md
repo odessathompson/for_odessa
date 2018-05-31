@@ -20,7 +20,7 @@
 </div>
 
 <body>
-    <p class="textmain">for_odessa</p>
+    <h2 class="textmain">About</h2>
 </body>
 
 
