@@ -8,13 +8,16 @@
 	<h1>Odesa Thompson</h1>
 </header>
 
-<div class="navtop">
-	
+<div class="navtop">	
 <nav>
-	<p class="navigation"><a href="default.asp">Home</a></p>
-  	<p class="navigation"><a href="news.asp">Graphics & Audio</a></p>
-  	<p class="navigation"><a href="contact.asp">Contact</a></p>
-  	<p class="navigation"><a href="about.asp">About</a></p>
+	<ul>
+	
+		<li class="navigation"><a href="default.asp">Home</a></li>
+  		<li class="navigation"><a href="news.asp">Graphics & Audio</a></li>
+  		<li class="navigation"><a href="contact.asp">Contact</a></li>
+  		<li class="navigation"><a href="about.asp">About</a></li>
+	
+	</ul>
 </nav>
 </div>
 
