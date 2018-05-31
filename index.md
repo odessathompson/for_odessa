@@ -1,9 +1,12 @@
 	
 <head>
 	<title> Odessa Emmanuelle Thompson </title>
-	<h1> Odessa </h1>
 	<link rel="stylesheet" type="text/css" href="main.css">
 <head>
+	
+<header>
+	<h1>Odessa Thompson</h1>
+</header>
 
 <nav>
 	<ul>
