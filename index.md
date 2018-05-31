@@ -1,4 +1,3 @@
-<html>
 	
 <head>
 	<title> Odessa Emmanuelle Thompson </title>
@@ -12,6 +11,5 @@
     <p class="textmain" >for_odessa</p>
 </body>
 
-</html>
 
 
