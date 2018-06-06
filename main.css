@@ -14,17 +14,12 @@ header {
 
 /* Create Navigation Bar */
 
-#stupid{
-    color: red;
-}
-
 .navvv{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: white;
-    text.color: black
 }
 
 .navigation{
@@ -39,6 +34,6 @@ header {
 /* Change the link color to #111 (black) on hover */
 .navigation:hover{
     background-color: #D1FFD7;
-    text-color: white;
+    color: white;
 }
 
