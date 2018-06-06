@@ -20,12 +20,12 @@ header {
     padding: 0;
     overflow: hidden;
     background-color: white;
+    text.color: black
 }
 
 .navigation{
     float: left;
     display: block;
-    text-color: black;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
@@ -34,7 +34,7 @@ header {
 
 /* Change the link color to #111 (black) on hover */
 .navigation:hover{
-    background-color: grey;
+    background-color: #D1FFD7;
     text-color: white;
 }
 
