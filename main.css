@@ -14,10 +14,6 @@ header {
 
 /* Create Navigation Bar */
 
-a {
-    color: hotpink;
-}
-
 .navvv{
     list-style-type: none;
     margin: 0;
