@@ -10,7 +10,7 @@
 <div class="navigation">	
 <nav>
 	<ul>
-			<li><a style = "color:red;" href="news.asp"> Other Stuff </a></li>
+			<li><a style = "color:red;" href="news.asp"> Othr Stuff </a></li>
   			<li><a href="news.asp">Graphics & Audio</a></li>
   			<li><a href="contact.asp">Contact</a></li>
   			<li><a href="about.asp">About</a></li>
