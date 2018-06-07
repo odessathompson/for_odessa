@@ -5,13 +5,12 @@
 <head>
 	
 <header>
-	<h1>Odessa Thompson</h1>
+	<h1>Odssa Thompson</h1>
 </header>
 
 <div class="navvv">	
 <nav>
 	<ul class="allnavv">
-		<li class="navigation" style="color:red" ><a href="default.asp">Home</a></li>
   		<li class="navigation"><a href="news.asp">Graphics & Audio</a></li>
   		<li class="navigation"><a href="contact.asp">Contact</a></li>
   		<li class="navigation"><a href="about.asp">About</a></li>
