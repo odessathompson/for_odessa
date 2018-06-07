@@ -14,14 +14,7 @@ header {
 
 
 /* Create Navigation Bar */
-
 ul {
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
-}
-
-.navvv{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -29,18 +22,27 @@ ul {
     background-color: white;
 }
 
-.navigation{
+li {
     float: left;
-    display: block;
-    text-align: center;
-    padding: 10px 10px;
-    text-decoration: none;
-    font-size: 17px;
 }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover 
+li a:hover {
+    background-color: #111;
+}
+*/
 
 /* Change the link color to #111 (black) on hover */
 .navigation:hover{
     background-color: #D1FFD7;
-    color: white;
+    color: black;
 }
 
