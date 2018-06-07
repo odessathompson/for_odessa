@@ -7,13 +7,13 @@
 	<h1>Odessa Thompson</h1>
 </header>
 
-<div class="navvv">	
+<div class="navigation">	
 <nav>
-	<ul class="allnavv">
-			<li class="navigation"><a href="news.asp"></a></li>
-  			<li class="navigation"><a href="news.asp">Graphics & Audio</a></li>
-  			<li class="navigation"><a href="contact.asp">Contact</a></li>
-  			<li class="navigation"><a href="about.asp">About</a></li>
+	<ul>
+			<li style = "color:red;"><a href="news.asp"> Other Stuff </a></li>
+  			<li><a href="news.asp">Graphics & Audio</a></li>
+  			<li><a href="contact.asp">Contact</a></li>
+  			<li><a href="about.asp">About</a></li>
 	</ul>
 </nav>
 </div>
