@@ -1,7 +1,8 @@
 	
 <head>
 	<title> Odessa Emmanuelle Thompson </title>
-	/* <link rel="stylesheet" type="text/css" href="main.css"> */
+	
+	<link rel="stylesheet" type="text/css" href="main.css"> 
 <head>
 	
 <header>
