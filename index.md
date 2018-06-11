@@ -5,7 +5,7 @@
 <head>
 	
 <header>
-	<h1>Oddessa Thompson</h1>
+	<h1>Odessa Thompson</h1>
 	<div class="navigation">	
 		<nav>
 			<ul>
