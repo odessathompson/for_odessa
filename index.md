@@ -21,7 +21,7 @@
 
 <body>
 	<h2 class="textmain">Resume</h2>
-	<object width="400" height="400" data="Odessa Resume.pdf"></object>
+	<iframe src="https://docs.google.com/document/d/1TzAaMBRqJgXjeM7PX0FmfZh1uKlzwnDknbMPrYt4--A/edit?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe>
 
 </body>
 
