@@ -20,7 +20,9 @@
 </header>
 
 <body>
-    <h2 class="textmain">About</h2>
+	<h2 class="textmain">Resume</h2>
+	<object width="400" height="400" data="Odessa Resume.pdf"></object>
+
 </body>
 
 
