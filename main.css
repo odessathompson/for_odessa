@@ -3,6 +3,8 @@
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
+    background-color: #DB3069;
+
 }
 
 ul {
@@ -25,27 +27,11 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Change the link color on hover */
 #plswork a:hover {
     background-color: #EB8EAD;
 }
 
-
-
-a:link {
-    color: black;
-}
-
-ul {
-    background-color: #D1FFD7;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    display: inline;
-}
 
 /*changes body*/
 .text.main{
