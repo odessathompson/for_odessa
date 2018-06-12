@@ -48,7 +48,7 @@ li a {
 .circular--landscape img {
   width: auto;
   height: 100%;
-  margin-left: -10px;
+  margin-left: 0px;
 }
 
 /*changes body*/
