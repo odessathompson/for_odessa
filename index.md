@@ -32,7 +32,7 @@
 		<p>	Best in Class</p>
 		<p>	ASU Walton Sustainability Solutions Award</p>
 		<p>	Stockholm Junior Water Prize</p>
-		<p>	American Meteroglical Society</p>
+		<p>	American Meteorological Society</p>
 		<p>	Someother Sustainaiblity Award from State</p>
 		</div>
 	<p>At Imagine Tomorrow, a Pacific Northwest competetion, we were also recognized with:<p>
