@@ -33,7 +33,7 @@ li a {
 }
 
 .moveright{
-    flex: 50%;
+    text-align: left;
 }
 
 .circular--landscape {
