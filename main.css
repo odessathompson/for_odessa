@@ -32,6 +32,10 @@ li a {
     background-color: #EB8EAD;
 }
 
+.moveright{
+    flex: 50%;
+}
+
 .circular--landscape {
   display: inline-block;
   position: relative;
