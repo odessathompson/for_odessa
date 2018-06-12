@@ -10,6 +10,7 @@
 	<div class="navigation">	
 		<nav>
 			<ul class="navv">
+				<li><h1>Odessa Thompson</h1></li>
 				<li><a href="news.asp"></a></li>
 				<li id="plswork"><a href="https://odessathompson.github.io/odessa/"> Home </a></li>
   				<li id="plswork"><a href="https://odessathompson.github.io/odessa_graphics-and-media/">Graphics & Media</a></li>
