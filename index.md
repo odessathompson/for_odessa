@@ -51,7 +51,7 @@
 		</div>
 	<h2 style="font-family: 'Montserrat', sans-serif; font-weight: 200;">Whales</h2>
 	<img src="orca_whale.jpg">
-	<img src="http://www.slate.com/content/dam/slate/articles/video/video/2016/11/whales_swimming_off_new_york_city_tracked_by_scientists_video/whalehellothere.jpg.CROP.promo-xlarge2.jpg" alt="beautiful picture of a whale">
+	<img src="http://www.slate.com/content/dam/slate/articles/video/video/2016/11/whales_swimming_off_new_york_city_tracked_by_scientists_video/whalehellothere.jpg.CROP.promo-xlarge2.jpg" class="img-circle" alt="beautiful picture of a whale">
 
 
 
