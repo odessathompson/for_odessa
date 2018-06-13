@@ -55,9 +55,7 @@ li a {
 /*changes whale gif to circle*/
 
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  
    
 }
 
@@ -68,6 +66,8 @@ li a {
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .circular--landscape img {
