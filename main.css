@@ -36,6 +36,13 @@ li a {
     text-align: left;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .circular--landscape {
   display: inline-block;
   position: relative;
