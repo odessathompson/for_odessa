@@ -27,14 +27,32 @@ li a {
     text-decoration: none;
 }
 
+/*creates two columns at the top*/
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 /* Change the link color on hover */
 #plswork a:hover {
     background-color: #EB8EAD;
 }
 
+.asap{
+}
+
 .moveright{
     text-align: left;
 }
+
+/*changes whale gif to circle*/
 
 .center {
     display: block;
