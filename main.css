@@ -69,6 +69,7 @@ li a {
 }
 
 .circular--landscape img {
+  vertical-align: middle
   width: auto;
   height: 100%;
   margin-left: 0px;
