@@ -60,8 +60,8 @@ li a {
 }
 
 .circular--landscape {
-  display: inline;
-  position: relative;
+  display: inline-block;
+  /*position: relative;*/
   width: 200px;
   height: 200px;
   overflow: hidden;
