@@ -31,7 +31,6 @@
 			<br>
 			<br>
 			<br>
-			<br>
 			<div class="circular--landscape">
 				<img src="https://media.giphy.com/media/jWsQNUItU01l6/giphy.gif" alt="gif of whale" class="center">
 			</div>
