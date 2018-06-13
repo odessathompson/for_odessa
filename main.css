@@ -44,7 +44,7 @@ li a {
 }
 
 .circular--landscape {
-  display: inline-block;
+  /*display: inline-block;*/
   position: relative;
   width: 200px;
   height: 200px;
