@@ -29,7 +29,7 @@
 		</div> 
 		<div class="col-sm-6">
 			<div class="circular--landscape">
-			<img src="https://media.giphy.com/media/jWsQNUItU01l6/giphy.gif" alt="gif of whale" align="right">
+			<img src="https://media.giphy.com/media/jWsQNUItU01l6/giphy.gif" alt="gif of whale" class="center">
 			</div>
 		</div>
 	</div>
