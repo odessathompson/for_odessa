@@ -21,10 +21,6 @@
 </header>
 
 <body>
-<div class="row">
-  <div class="col-sm-4"><p>.col-sm-4<p></div>
-  <div class="col-sm-8"><p>.col-sm-8<p></div>
-</div>
 <div class="text.main">
 	<div class="row">
 		<div class="col-sm-6">
@@ -33,6 +29,7 @@
 		</div> 
 		<div class="col-sm-6">
 			<div class="circular--landscape">
+			<p>Odessa's gifs</p>
 			<img src="https://media.giphy.com/media/jWsQNUItU01l6/giphy.gif" alt="gif of whale" class="center">
 			</div>
 		</div>
