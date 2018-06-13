@@ -29,9 +29,8 @@
 		</div> 
 		<div class="col-sm-6">
 			<div class="circular--landscape">
-			<p>Odessa's gifs</p>
 			<img src="https://media.giphy.com/media/jWsQNUItU01l6/giphy.gif" alt="gif of whale" class="center">
-			</div>
+			</div> 
 		</div>
 	</div>
 	<h2 style="font-family: 'Montserrat', sans-serif; font-weight: 200;">Intel International Science and Engineering Fair 2018</h2>
