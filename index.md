@@ -24,7 +24,7 @@
 <div class="text.main">
 	<div class="row">
 		<div class="column">
-			<h2 class="moveright" style="font-family: 'Montserrat', sans-serif; font-weight: 200;">About</h2>
+			<h2 class="moveright" style="font-family: 'Montserrat', sans-serif; font-weight: 200;">about</h2>
 			<p class="moveright">Odessa Thompson is a student at Camas High School. She is in a research focused Math Science and Technology Magnet Program and is curious about anything STEM related. Odessa has a particular affinity of whales and hopes to study a form enviromental science or marine biology in the future. She also quite likes computer programming and design, which she pursues by taking AP Computer Science, making webistes for said class final, and helping lead her highschool chapter of Girls Who Code. I can't stand writing in third person any more, so please explore the rest of my website now.</p>
 		</div> 
 		<div class="column">			
