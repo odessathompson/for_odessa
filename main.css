@@ -4,7 +4,6 @@
     top: 0; /* Position the navbar at the top of the page */
     width: 68%; /* Full width */
     background-color: #DB3069;
-
 }
 
 .navv {
@@ -27,6 +26,13 @@ li a {
     text-decoration: none;
 }
 
+/* Change the link color on hover */
+#plswork a:hover {
+    background-color: #EB8EAD;
+}
+
+
+
 /*creates two columns at the top*/
 .column {
     float: left;
@@ -40,17 +46,11 @@ li a {
     clear: both;
 }
 
-/* Change the link color on hover */
-#plswork a:hover {
-    background-color: #EB8EAD;
-}
-
-.asap{
-}
-
 .moveright{
     text-align: left;
 }
+
+
 
 /*changes whale gif to circle*/
 
@@ -71,6 +71,7 @@ li a {
   height: 100%;
   margin-left: 0px;
 }
+
 
 
 /*changes body*/
